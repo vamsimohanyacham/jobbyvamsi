@@ -84,8 +84,8 @@
 .nav-menu {
   display: flex;
   flex-direction: row;
-  justify-content: flex-end;
-  align-self: flex-end;
+  justify-content: flex-center;
+  align-self: flex-center;
   list-style-type: none;
   margin-top: 0px;
   margin-bottom: 0px;
